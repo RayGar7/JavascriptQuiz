@@ -1,0 +1,83 @@
+body {
+	font-family: "AvenirLTStd-Light", sans-serif;
+	background: #0F2027;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	/*these two lines make the background responsive*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1 {
+	color: #FF6600;
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	margin: 0;
+	text-transform: uppercase;
+	padding: 20px 0;
+	font-size: 2.75em;
+}
+
+img {
+	padding-bottom: 25px;
+	width: 75px;
+}
+
+.container {
+	background-color: white;
+	height: 400px;
+	font-family: "AvenirLTStd-Light", sans-serif;
+	background-color: #dbdbdb;
+}
+
+
+
+.choice {
+	display: block;
+	border: none;
+	margin: 0;
+	font-family: "AvenirLTStd-Light", sans-serif;
+	font-size: 1.75em;
+	border-radius: 0;
+	background-color: #FF3300;
+	color: white;
+	width: 100%;
+	padding: 10px;
+	border: 2px solid white;
+}
+
+.final-score {
+	text-align: center;
+	font-size: 2.0em;
+	margin-top: 40px;
+}
+
+#game-over {
+	font-size: 3.0em;
+	font-family: 'Do Hyeon', sans-serif;
+	color: #FF0000;
+	margin-top: 10%;
+}
+
+
+#js-header {
+	font-size: 2.0em;
+	color: #FFCC00;
+	text-transform: none;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.nums {
+	font-size: 1.5em;
+	color: #FF0000;
+}
+
+#question {
+	font-size: 1.3em;
+}
+
+#choices {
+	font-family: "AvenirLTStd-Light", sans-serif;
+	margin-top: 40px;
+}

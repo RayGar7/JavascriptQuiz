@@ -1,0 +1,141 @@
+Q 1 - Which of the following is true about variable naming conventions in JavaScript?
+
+A - JavaScript variable names must begin with a letter or the underscore character.
+
+B - JavaScript variable names are case sensitive.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+
+Q 2 - Which of the following type of variable is visible everywhere in your JavaScript code?
+
+A - global variable
+
+B - local variable
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : A
+Explanation
+Global Variables: A global variable has global scope which means it is visible everywhere in your JavaScript code.
+
+Q 3 - Which of the following is correct about callbacks?
+
+A - A callback is a plain JavaScript function passed to some method as an argument or option.
+
+B - Some callbacks are just events, called to give the user a chance to react when a certain state is triggered.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+A callback is a plain JavaScript function passed to some method as an argument or option. Some callbacks are just events, called to give the user a chance to react when a certain state is triggered.
+
+Q 4 - Which of the following function of Number object formats a number with a specific number of digits to the right of the decimal?
+
+A - toExponential()
+
+B - toFixed()
+
+C - toPrecision()
+
+D - toLocaleString()
+
+Answer : B
+Explanation
+toFixed() − Formats a number with a specific number of digits to the right of the decimal.
+
+Q 5 - Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?
+
+A - toSource()
+
+B - valueOf()
+
+C - toString()
+
+D - None of the above.
+
+Answer : C
+Explanation
+toString() − Returns a string of either 'true' or 'false' depending upon the value of the object.
+
+Q 6 - Which of the following function of String object returns the characters in a string between two indexes into the string?
+
+A - slice()
+
+B - split()
+
+C - substr()
+
+D - substring()
+
+Answer : D
+Explanation
+substring() − Returns the characters in a string between two indexes into the string.
+
+Q 7 - Which of the following function of String object returns the calling string value converted to lower case while respecting the current locale?
+
+A - toLocaleLowerCase()
+
+B - toLowerCase()
+
+C - toString()
+
+D - substring()
+
+Answer : A
+Explanation
+toLocaleLowerCase() − Returns the calling string value converted to lower case while respecting the current locale.
+
+Q 8 - Which of the following function of String object causes a string to be displayed as a subscript, as if it were in a <sub> tag?
+
+A - sup()
+
+B - small()
+
+C - strike()
+
+D - sub()
+
+Answer : D
+Explanation
+sub() − Causes a string to be displayed as a subscript, as if it were in a <sub> tag.
+
+Q 9 - Which of the following function of Array object returns true if every element in this array satisfies the provided testing function?
+
+A - concat()
+
+B - every()
+
+C - push()
+
+D - some()
+
+Answer : B
+Explanation
+every() − Returns true if every element in this array satisfies the provided testing function.
+
+Q 10 - Which of the following function of Array object extracts a section of an array and returns a new array?
+
+A - reverse()
+
+B - shift()
+
+C - slice()
+
+D - some()
+
+Answer : C
+Explanation
+slice() − Extracts a section of an array and returns a new array.
+
+//credit for this quiz goes to Tutorialspoint.com
